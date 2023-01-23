@@ -18,6 +18,11 @@ Step 4: End the program
  
 
 ## Program:
+## LU-Decomposition:
+```
+Developed by: ALDRIN LIJO J E
+Ref no: 22008844
+```
 (i) To find the L and U matrix
 ```
 /*
