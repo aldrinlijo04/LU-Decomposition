@@ -44,8 +44,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: ALDRIN LIJO J E
+RegisterNumber: 22008844
 */
 ```
 ```py
