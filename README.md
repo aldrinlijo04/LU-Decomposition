@@ -59,8 +59,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](/Screenshot%202023-01-16%20125456.png)
 ![lu decomposition](/Screenshot%202023-01-16%20125431.png)
+![lu decomposition](/Screenshot%202023-01-16%20125456.png)
+
 
 
 
